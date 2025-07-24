@@ -1,0 +1,5 @@
+{
+  "name": "Priyanshu Thakur",
+  "email": "priyanshuthakur12@gmail.com",
+  "age": 20
+}
