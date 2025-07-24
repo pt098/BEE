@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Priyanshu",
+    "email": "priyanshuthakur271@gmail.com",
+    "address": "Chandigarh",
+    "password": "12345"
+  },
+  {
+    "name": "Aarav",
+    "email": "aarav.sharma01@gmail.com",
+    "address": "Delhi",
+    "password": "aarav@123"
+  },
+  {
+    "name": "Aryan",
+    "email": "aryan212@gmail.com",
+    "address": "Mumbai",
+    "password": "ahjdh299"
+  },
+  {
+    "name": "John",
+    "email": "john.01@gmail.com",
+    "address": "Delhi",
+    "password": "john@123"
+  }
+]
