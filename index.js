@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 
 let users = [
@@ -38,6 +39,7 @@ try {
 } catch (err) {
   console.error(" Error reading or parsing file:", err.message);
 }
+
 // index.js
 const fs = require('fs');
 const prompt = require('prompt-sync')();
